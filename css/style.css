@@ -349,8 +349,15 @@ transform: translate(0, -9.5px) rotate(45deg);
   height: 300px;
 }
 
+.c-width {
+  width: 35%;
+}
+
 @media (max-width: 768px) {
   .c-h-1 {
     height: auto;
+  }
+  .c-width {
+    width: 100%;
   }
 }
