@@ -322,7 +322,7 @@ transform: translate(0, -9.5px) rotate(45deg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(/img/layer3.svg);
+    background-image: url(../img/layer3.svg);
 }
 
 .flip {
